@@ -1,0 +1,44 @@
+REPORTE DE NOTAS - PROYECTO C++
+----------------------------
+Estudiante: Acosta_Hanna | Promedio: 8.8
+Estudiante: ​Andrade_Hugo | Promedio: 9.2
+Estudiante: ​Atiencia_Josue | Promedio: 8.8
+Estudiante: ​Balarrezo_Diego | Promedio: 8
+Estudiante: ​Barrionuevo_Job | Promedio: 7
+Estudiante: ​Bedoya_Juan | Promedio: 6.8
+Estudiante: ​Bravo_Samuel | Promedio: 6.4
+Estudiante: ​Cajiao_Paulo | Promedio: 8
+Estudiante: ​Calvopina_Brandon | Promedio: 7.2
+Estudiante: ​Castelo_Katherine | Promedio: 8.6
+Estudiante: ​Chacha_Víctor8 | Promedio: 6.6
+Estudiante: ​Chiluiza_Steed | Promedio: 8.2
+Estudiante: ​Dominguez_Daniel | Promedio: 8.4
+Estudiante: ​Freire_Alan | Promedio: 8
+Estudiante: ​Gualle_Abisag | Promedio: 8.4
+Estudiante: ​Guaman_Alexander | Promedio: 6.8
+Estudiante: ​Guanga_Sebastian | Promedio: 8
+Estudiante: ​Guanotoa_Karla | Promedio: 8.6
+Estudiante: ​Landeta_Edison | Promedio: 8
+Estudiante: Lara_Karen | Promedio: 0
+Estudiante: ​Loor_Jhon | Promedio: 8.4
+Estudiante: ​Lopez_Washington | Promedio: 8
+Estudiante: ​Miranda_Imanol | Promedio: 8.2
+Estudiante: ​Monar_Jhair | Promedio: 5.8
+Estudiante: ​Muyulema_Mateo | Promedio: 5.6
+Estudiante: ​Narvaez_Antonella | Promedio: 8
+Estudiante: ​Nunez_Bryan | Promedio: 8.6
+Estudiante: ​Pilco_Mario | Promedio: 7.6
+Estudiante: ​Pomaquero_Katherine | Promedio: 6.2
+Estudiante: ​Quevedo_Gina | Promedio: 5
+Estudiante: ​Rivadeneira_Matias | Promedio: 6.4
+Estudiante: ​Rocha_Carolina | Promedio: 7.6
+Estudiante: ​Sanchez_Isaac | Promedio: 8.2
+Estudiante: ​Segovia_Joseph | Promedio: 8
+Estudiante: ​Supe_Joan | Promedio: 5.4
+Estudiante: ​Toapanta_Matias | Promedio: 5.8
+Estudiante: ​Verdesoto_Kevin | Promedio: 6.8
+Estudiante: ​Villacres_Alejandro | Promedio: 5
+Estudiante: ​Viteri_Shantal | Promedio: 8.2
+
+RESUMEN FINAL:
+Promedio Grupal: 7.24615
